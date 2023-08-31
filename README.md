@@ -8,8 +8,7 @@ Dialogue extraction.ipynb was used to extract dialogues from files in folder /da
 Fine-tuning.ipynb demonstrates finetuning of model on data from previous step
 bot.py and db.py are for using Telegram ChatBot
 
-Contact:
-Telegram: https://t.me/DDPronin
+Try bot (with a high degree of probability, it does not answer you because the program is not being executed on anyone's computer at the moment): https://t.me/DostChatBot
 
-Try bot (with a high degree of probability, it does not answer you because the program is not being executed on anyone's computer at the moment): \
-https://t.me/DostChatBot
+Contact me:
+Telegram: https://t.me/DDPronin
