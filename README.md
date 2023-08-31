@@ -10,5 +10,5 @@ bot.py and db.py are for using Telegram ChatBot
 
 Try bot (with a high degree of probability, it does not answer you because the program is not being executed on anyone's computer at the moment): https://t.me/DostChatBot
 
-Contact
+Contact \
 Telegram: https://t.me/DDPronin
